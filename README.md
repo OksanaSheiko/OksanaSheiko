@@ -76,15 +76,15 @@ My name is Oksana and I am QA Engineer
 
 <br>
 
-## 🪴 Практика и стажировка
-[<img src="/stepik-certificate-Postman.pdf" width="280px" hspace="10px" alt="Сертификат от степика»">](https://github.com/OksanaSheiko/OksanaSheiko/blob/main/stepik-certificate-Postman.pdf) 
+## 🪴 Courses and certificates
+[<img src="/stepik-certificate-Postman.pdf" width="280px" hspace="10px" alt="stepik-certificate-Postman»">](https://github.com/OksanaSheiko/OksanaSheiko/blob/main/stepik-certificate-Postman.pdf) 
 
 <br>
 
 <br>
 <br>
 
-## 🤝 Контакт
+## 🤝 Contacts
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:oksanasheiko.qa@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/OksanaSheiko)
 
