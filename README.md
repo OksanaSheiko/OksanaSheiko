@@ -75,7 +75,6 @@ My name is Oksana and I am QA Engineer
 <br>
 
 ## 🪴 Courses and certificates
-[<img src="/Certificate-of-the-course-in-QA-Engineering.png" width="280px" hspace="10px" alt="Certificate-of-the-course-in-QA-Engineering»">](https://raw.githubusercontent.com/OksanaSheiko/OksanaSheiko/refs/heads/main/Certificate-of-the-course-in-QA-Engineering.png) 
 [<img src="/stepik-certificate-Postman.pdf.png" width="280px" hspace="10px" alt="stepik-certificate-Postman»">](https://raw.githubusercontent.com/OksanaSheiko/OksanaSheiko/refs/heads/main/stepik-certificate-Postman.pdf.png) 
 
 
